@@ -45,3 +45,88 @@ text-decoration: solid;
 margin-left: 80px;
 
 }
+
+.mainn {
+
+border: 1px solid black;
+
+border-radius: 5px;
+
+width: 500px;
+
+margin-left: 350px;
+
+
+}
+
+#lixo {
+
+height: 300px;
+
+width: 300px;
+
+margin-left: 20%;
+}
+
+#maintitle {
+
+text-align: center;
+
+text-decoration: underline;
+
+
+}
+
+#mainp {
+
+text-align: center;
+
+
+}
+
+#h3m {
+
+text-align: center;
+
+
+}
+
+.foooter {
+
+border: 1px solid black;
+
+border-radius: 5px;
+
+width: 500px;
+
+margin-left: 350px;
+
+}
+
+#h3f {
+
+    text-align: center;
+
+}
+
+#fh1 {
+
+text-align: center;
+
+text-decoration: underline;
+
+}
+
+
+#pf {
+
+text-align: center;
+
+}
+
+#quandale {
+
+margin-left: 145px;
+
+
+}
